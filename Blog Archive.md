@@ -80,3 +80,50 @@
 </b:includable>
   </b:widget>
 ```
+
+# HTML BE
+```html
+<div class="widget BlogArchive" data-version="1" id="BlogArchive1">
+<h2>Blog Archive</h2>
+<div class="widget-content">
+<div id="ArchiveList">
+<div id="BlogArchive1_ArchiveList">
+<ul class="hierarchy">
+<li class="archivedate expanded">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy toggle-open">
+
+        ▼&nbsp;
+      
+</span>
+</a>
+<a class="post-count-link" href="https://mg3994.blogspot.com/2024/">
+2024
+</a>
+<span class="post-count" dir="ltr">(1)</span>
+<ul class="hierarchy">
+<li class="archivedate expanded">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy toggle-open">
+
+        ▼&nbsp;
+      
+</span>
+</a>
+<a class="post-count-link" href="https://mg3994.blogspot.com/2024/12/">
+December
+</a>
+<span class="post-count" dir="ltr">(1)</span>
+<ul class="posts">
+<li><a href="https://mg3994.blogspot.com/2024/12/privacy-policy.html">Privacy Policy for mg3994.blogspot.com</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+```
