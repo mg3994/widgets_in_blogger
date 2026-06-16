@@ -1,3 +1,5 @@
+# only one in a section
+
 ```xml
   <b:widget id='FeaturedPost1' locked='false' title='Featured post' type='FeaturedPost'>
     <b:widget-settings>
