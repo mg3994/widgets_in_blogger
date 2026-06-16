@@ -16,3 +16,13 @@
 </b:includable>
   </b:widget>
 ```
+# HTML BE
+```html
+<div class="widget HTML" data-version="1" id="HTML1">
+<h2 class="title">This Html/js</h2>
+<div class="widget-content">
+<h1>Hello this is html</h1> <script src=""></script>
+</div>
+<div class="clear"></div>
+</div>
+```
