@@ -16,3 +16,15 @@
 </b:includable>
   </b:widget>
 ```
+
+# HTML BE
+
+```html
+<div class="widget Text" data-version="1" id="Text1">
+<h2 class="title">Hi This is a Sample text</h2>
+<div class="widget-content">
+Nothing her to show
+</div>
+<div class="clear"></div>
+</div>
+```
