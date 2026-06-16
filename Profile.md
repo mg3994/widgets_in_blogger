@@ -45,3 +45,23 @@
   </b:includable>
   </b:widget>
 ```
+
+# HTML BE 
+```html
+<div class="widget Profile" data-version="1" id="Profile1">
+<h2>About Me</h2>
+<div class="widget-content">
+<dl class="profile-datablock">
+<dt class="profile-data">
+<a class="profile-name-link g-profile" href="https://draft.blogger.com/profile/02949392009900018502" rel="author" style="background-image: url(//draft.blogger.com/img/logo-16.png);">
+mg3994
+</a>
+</dt>
+<dd class="profile-data">
+</dd>
+</dl>
+<a class="profile-link" href="https://draft.blogger.com/profile/02949392009900018502" rel="author">View my complete profile</a>
+<div class="clear"></div>
+</div>
+</div>
+```
