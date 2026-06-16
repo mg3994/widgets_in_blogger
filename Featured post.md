@@ -41,3 +41,23 @@
 </b:includable>
   </b:widget>
 ```
+
+# HTML BE
+```html
+<div class="widget FeaturedPost" data-version="1" id="FeaturedPost1">
+<h2 class="title">Featured post</h2>
+<div class="post-summary">
+<h3><a href="https://mg3994.blogspot.com/2024/12/privacy-policy.html">Privacy Policy for mg3994.blogspot.com</a></h3>
+<p>
+At mg3994.blogspot.com, accessible from https://mg3994.blogspot.com/ , one of our main priorities is the privacy of our visitors. This Priva...
+</p>
+<img class="image" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhajMSh6LOXPpngKeoXqgRRHF3kI0HlGhvgtGcE3We-fyrs_PCyRwNFbqoWpKE64VPilcfL7o_SQyHK4Hn8B_NDd1Op5OUtQ7ieRnBZcYgEL0LyyrwYn0cvTOOA6f_i2CL8Vu24Tqjh9VzloG08LJDY3MXq_glurktBI6a7c8Jt-P6-g-G625z2TMQgl5E/s320/6198268.jpg">
+</div>
+<style type="text/css">
+    .image {
+      width: 100%;
+    }
+  </style>
+<div class="clear"></div>
+</div>
+```
