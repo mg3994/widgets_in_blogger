@@ -1,3 +1,5 @@
+#### only one in a section
+
 ```xml
  <b:widget id='Profile1' locked='false' title='About Me' type='Profile'>
     <b:widget-settings>
